@@ -1,7 +1,7 @@
 {
   "title": "Stackbit Fresh Theme",
   "layout_style": "overflow",
-  "palette": "blue",
+  "palette": "green",
   "header": {
     "title": "Stackbit Fresh",
     "tagline": "Header Tagline",
@@ -16,7 +16,7 @@
       {
         "text": "Made with Stackbit",
         "url": "https://www.stackbit.com",
-        "new_window": false
+        "new_window": true
       }
     ]
   }
